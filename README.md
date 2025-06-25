@@ -110,4 +110,4 @@ Pull requests are welcome! Whether it's bug fixes, UI polish, or new features �
 
 ## 📧 Contact
 
-Created by [Your Name] — reach out via [your-email@example.com] or open an issue!
+Created by [R J Adithya Yadav] — reach out via [adithyayadav641@gmail.com] or open an issue!
