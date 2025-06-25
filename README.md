@@ -2,12 +2,7 @@
 
 **RealTalkAI** is a voice-first AI chat application for Android that breaks away from traditional polite assistants. It delivers raw, real, and emotionally expressive conversations — like talking to an edgy, brutally honest best friend who actually keeps up with the world.
 
----
 
-![screenshot-or-demo-placeholder](your-screenshot-or-gif-here.gif)
-> *(Replace this with a GIF or screenshot of your app in action)*
-
----
 
 ## ✨ Core Features
 
@@ -55,7 +50,7 @@ Powered by **Google Cloud Text-to-Speech** (TTS) with premium **Studio voices** 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/RealTalkAI.git
+git clone https://github.com/AR-47/RealTalkAI.git
 ```
 
 ### 2. Get Your API Keys
