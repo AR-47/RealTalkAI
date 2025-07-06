@@ -21,7 +21,7 @@ object GoogleTTSHelper {
 
     private val executor = Executors.newSingleThreadExecutor()
     private val client = OkHttpClient()
-    private const val apiKey = "AIzaSyDcuPPOmiLJAzdmvDFgmpTGQPLlDX3bsjo"
+    private const val apiKey = "#ADD YOUR API KEY"
 
     // This is the simple speak function with no callback
     fun speak(context: Context, text: String) {
