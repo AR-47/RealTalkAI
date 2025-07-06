@@ -11,9 +11,9 @@ import org.json.JSONObject
 
 object GPTHelper {
     // --- API KEYS DEFINED DIRECTLY IN THE SCRIPT ---
-    private const val OPENROUTER_API_KEY = "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"
+    private const val OPENROUTER_API_KEY = "#ADD YOUR OPENROUTER API KEY"
     // --- ACTION: PASTE YOUR NEWS API KEY HERE ---
-    private const val NEWS_API_KEY = "ad615646f5164907a08c388eb2d59c0f"
+    private const val NEWS_API_KEY = "ADD YOUR NEWS API KEY"
 
     private const val GPT_ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
     private const val NEWS_ENDPOINT = "https://newsapi.org/v2/top-headlines?country=us&pageSize=5&apiKey=$NEWS_API_KEY"
